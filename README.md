@@ -1,2 +1,8 @@
 # marcasdemoviles
-Diferentes marcas  de móviles del mercado actual
+
+# Listado de móviles
+
+1. Iphone
+2. Samsung
+3. Xiaomi
+...
